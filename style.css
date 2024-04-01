@@ -1,0 +1,40 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    font-size: 28px;
+}
+.landing {
+    background-color: #ffeb3b;
+}
+.mint-bg {
+    background-color: #2ecc71;
+}
+.red-bg {
+    background-color: #e74c3c;
+}
+.green-bg {
+    background-color: #145a32;
+}
+.main-heading{
+    text-align: center;
+    color: #fdfefe;
+}
+.description{
+    font-style: italic;
+    color: #fef9e7;
+    font-size: 0.60em;
+}
+.sub-heading{
+    font-size: 0.90em;
+    color: #990000;
+}
+.ing-list,
+.step-list{
+    font-size: 0.75em;
+    color: #000000;
+}
+.recipe-list {
+    font-size: 1em;
+    color: #4a235a;
+}
